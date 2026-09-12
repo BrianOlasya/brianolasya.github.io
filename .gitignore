@@ -1,0 +1,6 @@
+# Windows and macOS shell clutter — these appear on their own inside
+# image folders and would otherwise be committed by `git add .`
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
